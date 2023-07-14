@@ -1,0 +1,24 @@
+1
+96378873
+9040
+500.0
+Jayesh Ginnare
+Wed Mar 03 00:00:00 IST 3847
+6, keshav nagar
+male
+jayeshginnare@gmail.com
+8269378378
+false
+false
+1
+90519913
+9799
+10000.0
+jayesh ginnare
+Sat Jan 18 00:00:00 IST 3890
+6, keshav nagar gram kodirya
+male
+jayeshginnare@gmail.com
+8269378378
+false
+2023/07/14 10:27:10
